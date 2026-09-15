@@ -24,7 +24,7 @@ list_of_files=[
     f"{project_name}/pipline/prediction_pipline.py",
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
-
+"requirements.txt"
 ]
 
 for filepath in list_of_files:
