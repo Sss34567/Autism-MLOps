@@ -25,6 +25,13 @@ list_of_files=[
     f"{project_name}/utils/__init__.py",
     f"{project_name}/utils/main_utils.py",
 "requirements.txt",
+"app.py",
+"Dockerfile",
+".dockerignore",
+"demo.py",
+"setup.py",
+"config/model.yaml",
+"config/schema.yaml",
 ]
 
 for filepath in list_of_files:
